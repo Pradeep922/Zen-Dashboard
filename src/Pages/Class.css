@@ -1,0 +1,21 @@
+.class {
+    position: relative;
+ padding-left: 15%;
+ padding-top: 20px;
+}
+
+.classWrapper{
+    background: #4b0dba;
+    box-shadow: 0 1px 10px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    width: 80%;
+    height: 80px;
+}
+
+.JoinClass {
+    color: #fff!important;
+    font-size: 40px;
+    padding: 20px;
+    margin-top: 25px;
+
+}
